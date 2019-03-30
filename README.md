@@ -10,7 +10,7 @@ Some of the interesting questions I would like to raise and attempt to find answ
 5.	Based on our findings could we recommend a municipality or a region to someone immigrating to Norway?
 6.	If I were to move to Norway, which commune or locality would I choose?
 
-This project and the report attempts to provide better understanding of socio economic conditions in Norway, based on realistic figures. It is targeted for people who wants to know more about Norway or to those living in Norway to know more about the municipalities they live in.
+The notebook and the report attempts to provide better understanding of socio economic conditions in Norway, based on realistic figures. It is targeted for people who wants to know more about Norway or to those living in Norway to know more about the municipalities they live in.
 
 Following data were used: 
 1.	Commune wise indicators
