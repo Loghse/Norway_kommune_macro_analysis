@@ -1,5 +1,5 @@
-# Norway_kommune_macro_analysis
-Exploratory analysis of macro level socio economic conditions among Norwegian kommunes
+# Norway kommune analysis
+Exploratory analysis of socio economic conditions among Norwegian kommunes
 
 Following is an exploratory analysis on socio economic conditions in Norway across various municipalities.
 Some of the interesting questions I would like to raise and attempt to find answers to are : 
